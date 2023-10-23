@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GticsLab920180805Application {
 
-	public static void main(String[] args) {
-		SpringApplication.run(GticsLab920180805Application.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(GticsLab920180805Application.class, args);
+    }
 
 }
